@@ -1,0 +1,5 @@
+# virtual environment
+vir/
+
+# environment variables
+.env

@@ -1,0 +1,4 @@
+streamlit
+google
+python-dotenv
+httpx
