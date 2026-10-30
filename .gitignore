@@ -5,5 +5,4 @@ vir/
 .env
 
 # json files
-*.json
 chat_history.json
