@@ -3,3 +3,6 @@ vir/
 
 # environment variables
 .env
+
+# json files
+*.json
