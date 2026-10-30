@@ -1,4 +1,6 @@
 streamlit
-google
+google-generativeai
 python-dotenv
 httpx
+uuid
+streamlit_mic_recorder
